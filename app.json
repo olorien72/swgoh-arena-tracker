@@ -1,7 +1,7 @@
 {
   "name": "simple-swgoh-arena-tracker",
   "description": "Simple SWGOH arena tracker",
-  "repository": "https://github.com/olorien72/swgoh-arena-tracker",
+  "repository": "https://github.com/olorien72/swgoh-fleet-tracker",
   "keywords": ["docker"],
   "stack": "container"
 }
